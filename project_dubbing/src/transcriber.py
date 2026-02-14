@@ -5,7 +5,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 class Transcriber:
-    def __init__(self, model_size="tiny"):
+    def __init__(self, model_size="medium"):
         print(f"Loading Whisper model ({model_size})...")
         self.model = whisper.load_model(model_size)
 
@@ -16,3 +16,4 @@ class Transcriber:
         print(f"Transcribing {audio_path}...")
         result = self.model.transcribe(audio_path, language=language)
         return result.get("segments", [])
+
