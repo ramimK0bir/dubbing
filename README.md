@@ -5,6 +5,9 @@
 - Use gTTS genarate voice from text.
   
 
+# Requirements
+- python 3.12 or older.
+- ffmpeg
 
 # Installation
 
