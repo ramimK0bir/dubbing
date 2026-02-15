@@ -1,5 +1,0 @@
-ffmpeg-python
-pydub
-openai-whisper
-deep_translator #googletrans==4.0.0-rc1
-gTTS
