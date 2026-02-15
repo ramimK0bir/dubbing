@@ -56,5 +56,9 @@ When running main.py, you can pass the following arguments:
 Example usage:
 python main.py --input data.txt --output out.txt --lang es
 
+## what's new in version 0.0.1 ?
+- male voice added.
 
 
+## Upcoming features
+- ................
