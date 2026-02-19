@@ -40,7 +40,6 @@ Use [Google Colab](https://colab.research.google.com/github/ramimK0bir/dubbing/b
 - Seamless cloud-based workflow with no local setup required  
 - Simple sharing and collaboration via links  
 
-*(Replace the link above with your own Colab, GitHub, or notebook link.)*
 
 
 
